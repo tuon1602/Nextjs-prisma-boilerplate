@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This Project is boilerplate that has Nextjs, Prisma, shadcnUI, lucide-react, framer motion
 
 ## Getting Started
 
@@ -12,6 +12,11 @@ yarn dev
 pnpm dev
 # or
 bun dev
+```
+For Env
+
+```bash
+DATABASE_URL="Your DB URL"
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
